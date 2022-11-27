@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">SteakNews!</a>
         </h1>
 
         <p className={styles.description}>
@@ -31,9 +31,29 @@ export default function Home() {
             <h2>Learn &rarr;</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
+          <a href="https://steaknews.vercel.app" className={styles.card}>
+            <h2>Advertisement &rarr;</h2>
+            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          </a>
 
+          <a href="https://steaknews.vercel.app" className={styles.card}>
+            <h2>Doubleclick &rarr;</h2>
+            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          </a>
+          <a href="https://steaknews.vercel.app" className={styles.card}>
+            <h2>Adsense &rarr;</h2>
+            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          </a>
+          <a href="https://nextjs.org/learn" className={styles.card}>
+            <h2>SteakNews &rarr;</h2>
+            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          </a>
+          <a href="https://steaknews.vercel.app" className={styles.card}>
+            <h2>Ad Manager &rarr;</h2>
+            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          </a>
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://steaknews.vercel.app"
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
